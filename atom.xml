@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianzhihao.github.io</id>
     <title>iqianzhihao</title>
-    <updated>2019-06-18T09:08:02.239Z</updated>
+    <updated>2019-06-18T09:16:33.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianzhihao.github.io"/>
     <link rel="self" href="https://qianzhihao.github.io/atom.xml"/>
@@ -16,7 +16,11 @@
         <link href="https://qianzhihao.github.io/post/20190618">
         </link>
         <updated>2019-06-18T09:00:19.000Z</updated>
-        <content type="html"><![CDATA[<p>世界是无情的、残酷的。我们生到人世间没有人知道为了什么，我们死后没有人知道到何处去。我们必须自甘卑屈。我们必须看到冷清寂寥的美妙。在生活中我们一定不要出风头，露头角，惹起命运对我们注目。 让我们去寻求那些淳朴、敦厚的爱情吧。他们的愚昧远比我们的知识更可贵</p>
+        <summary type="html"><![CDATA[<p>世界是无情的、残酷的。我们生到人世间没有人知道为了什么，我们死后没有人知道到何处去。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>世界是无情的、残酷的。我们生到人世间没有人知道为了什么，我们死后没有人知道到何处去。</p>
+<!-- more -->
+<p>我们必须自甘卑屈。我们必须看到冷清寂寥的美妙。在生活中我们一定不要出风头，露头角，惹起命运对我们注目。 让我们去寻求那些淳朴、敦厚的爱情吧。他们的愚昧远比我们的知识更可贵。</p>
 ]]></content>
     </entry>
     <entry>
@@ -25,7 +29,11 @@
         <link href="https://qianzhihao.github.io/post/20190617">
         </link>
         <updated>2019-06-17T01:09:13.000Z</updated>
-        <content type="html"><![CDATA[<p>刚部署好的个人页面，test</p>
+        <summary type="html"><![CDATA[<p>刚部署好的个人页面</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>刚部署好的个人页面</p>
+<!-- more -->
+<p>for test</p>
 ]]></content>
     </entry>
     <entry>
