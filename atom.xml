@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianzhihao.github.io</id>
     <title>iqianzhihao</title>
-    <updated>2019-06-17T01:55:45.821Z</updated>
+    <updated>2019-06-18T09:07:20.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianzhihao.github.io"/>
     <link rel="self" href="https://qianzhihao.github.io/atom.xml"/>
@@ -10,6 +10,16 @@
     <logo>https://qianzhihao.github.io/images/avatar.png</logo>
     <icon>https://qianzhihao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iqianzhihao</rights>
+    <entry>
+        <title type="html"><![CDATA[20190618]]></title>
+        <id>https://qianzhihao.github.io/post/20190618</id>
+        <link href="https://qianzhihao.github.io/post/20190618">
+        </link>
+        <updated>2019-06-18T09:00:19.000Z</updated>
+        <content type="html"><![CDATA[<pre><code>世界是无情的、残酷的。我们生到人世间没有人知道为了什么，我们死后没有人知道到何处去。我们必须自甘卑屈。我们必须看到冷清寂寥的美妙。在生活中我们一定不要出风头，露头角，惹起命运对我们注目。 让我们去寻求那些淳朴、敦厚的爱情吧。他们的愚昧远比我们的知识更可贵
+</code></pre>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20190617]]></title>
         <id>https://qianzhihao.github.io/post/20190617</id>
