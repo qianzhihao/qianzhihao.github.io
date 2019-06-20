@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianzhihao.github.io</id>
     <title>iqianzhihao</title>
-    <updated>2019-06-20T07:13:15.698Z</updated>
+    <updated>2019-06-20T08:51:37.454Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianzhihao.github.io"/>
     <link rel="self" href="https://qianzhihao.github.io/atom.xml"/>
@@ -12,6 +12,23 @@
     <logo>https://qianzhihao.github.io/images/avatar.png</logo>
     <icon>https://qianzhihao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iqianzhihao</rights>
+    <entry>
+        <title type="html"><![CDATA[20190620日历]]></title>
+        <id>https://qianzhihao.github.io/post/20190620-ri-li</id>
+        <link href="https://qianzhihao.github.io/post/20190620-ri-li">
+        </link>
+        <updated>2019-06-20T08:46:39.000Z</updated>
+        <summary type="html"><![CDATA[<p>PC端/移动端日历同步问题</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>PC端/移动端日历同步问题</p>
+<!-- more -->
+<p>个人经验，多终端多系统直接的日历同步，最好的还是用outlook的日历进行同步。方法如下：</p>
+<ol>
+<li>注册一个outlook邮箱；</li>
+<li>在各系统中（MacOS/Win10/IOS/Android等）登陆该账户，并选择同步日历；</li>
+</ol>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[增加“给博主发邮件”功能]]></title>
         <id>https://qianzhihao.github.io/post/zeng-jia-gei-bo-zhu-fa-you-jian-gong-neng</id>
