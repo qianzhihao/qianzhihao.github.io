@@ -3,7 +3,7 @@
     <meta charset="utf-8" />
 <meta name="description" content="" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>iqianzhihao</title>
+<title>增加“评论文章”功能 | iqianzhihao</title>
 <link rel="shortcut icon" href="https://qianzhihao.github.io/favicon.ico?v=1561014577093">
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/KaTeX/0.10.0/katex.min.css">
@@ -72,90 +72,67 @@
   </div>
 </div>
 
-    
-        <div class="post-container">
-  
-    <article class="post">
-      <a href="https://qianzhihao.github.io/post/zeng-jia-gei-bo-zhu-fa-you-jian-gong-neng">
-        <h2 class="post-title">增加“给博主发邮件”功能</h2>
-      </a>
-      <div class="post-info">
-        <time class="post-time">
-          · 2019-06-20 ·
-        </time>
+
+        <div class="post-detail">
+          <article class="post">
+            <h2 class="post-title">
+              增加“评论文章”功能
+            </h2>
+            <div class="post-info">
+              <time class="post-time">
+                · 2019-06-19 ·
+              </time>
+              
+            </div>
+            
+            <div class="post-content">
+              <p>需登陆 github 账号</p>
+<!-- more -->
+<p>点击文章标题，进入文章内容页面。下拉直最底部，登陆个人github账号后，即可对当前文章进行评论。</p>
+
+            </div>
+          </article>
+        </div>
+
         
-      </div>
-      
-      <div class="post-abstract">
-        <p>需登陆QQ邮箱</p>
-
-      </di>
-    </article>
-  
-    <article class="post">
-      <a href="https://qianzhihao.github.io/post/zeng-jia-ping-lun-wen-zhang-gong-neng">
-        <h2 class="post-title">增加“评论文章”功能</h2>
-      </a>
-      <div class="post-info">
-        <time class="post-time">
-          · 2019-06-19 ·
-        </time>
+          <div class="next-post">
+            <div class="next">下一篇</div>
+            <a href="https://qianzhihao.github.io/post/20190618">
+              <h3 class="post-title">
+                20190618
+              </h3>
+            </a>
+          </div>
         
-      </div>
-      
-      <div class="post-abstract">
-        <p>需登陆 github 账号</p>
 
-      </di>
-    </article>
-  
-    <article class="post">
-      <a href="https://qianzhihao.github.io/post/20190618">
-        <h2 class="post-title">20190618</h2>
-      </a>
-      <div class="post-info">
-        <time class="post-time">
-          · 2019-06-18 ·
-        </time>
         
-          <a href="https://qianzhihao.github.io/tag/ed0ABdhQs" class="post-tag">
-            # 书摘
-          </a>
+          
+            <link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+
+<div id="gitalk-container"></div>
+
+<script>
+
+  var gitalk = new Gitalk({
+    clientID: 'Iv1.2dacbfd11191d9fc',
+    clientSecret: '6b286dcefd2ee7283d1bf6cb7063655f30f3dcc7',
+    repo: 'qianzhihao.github.io',
+    owner: 'qianzhihao',
+    admin: ['qianzhihao'],
+    id: (location.pathname).substring(0, 49),      // Ensure uniqueness and length less than 50
+    distractionFreeMode: false  // Facebook-like distraction free mode
+  })
+
+  gitalk.render('gitalk-container')
+
+</script>
+
+          
+
+          
         
-      </div>
-      
-      <div class="post-abstract">
-        <p>世界是无情的、残酷的。我们生到人世间没有人知道为了什么，我们死后没有人知道到何处去。</p>
 
-      </di>
-    </article>
-  
-    <article class="post">
-      <a href="https://qianzhihao.github.io/post/20190617">
-        <h2 class="post-title">20190617</h2>
-      </a>
-      <div class="post-info">
-        <time class="post-time">
-          · 2019-06-17 ·
-        </time>
-        
-      </div>
-      
-      <div class="post-abstract">
-        <p>刚部署好的个人页面</p>
-
-      </di>
-    </article>
-  
-</div>
-
-    
-        <div class="pagination-container">
-  
-  
-</div>
-
-    
         <div class="site-footer">
   Powered by <a href="https://github.com/getgridea/gridea" target="_blank">Gridea</a> | 
   <a class="rss" href="https://qianzhihao.github.io/atom.xml" target="_blank">RSS</a>

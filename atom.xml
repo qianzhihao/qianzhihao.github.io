@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianzhihao.github.io</id>
     <title>iqianzhihao</title>
-    <updated>2019-06-20T07:02:59.551Z</updated>
+    <updated>2019-06-20T07:09:40.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianzhihao.github.io"/>
     <link rel="self" href="https://qianzhihao.github.io/atom.xml"/>
@@ -18,10 +18,24 @@
         <link href="https://qianzhihao.github.io/post/zeng-jia-gei-bo-zhu-fa-you-jian-gong-neng">
         </link>
         <updated>2019-06-20T06:59:55.000Z</updated>
-        <summary type="html"><![CDATA[<p>点击首页“欢迎来信交流”，登陆个人QQ邮箱即可给博主发邮件。</p>
+        <summary type="html"><![CDATA[<p>需登陆QQ邮箱</p>
 ]]></summary>
-        <content type="html"><![CDATA[<p>点击首页“欢迎来信交流”，登陆个人QQ邮箱即可给博主发邮件。</p>
+        <content type="html"><![CDATA[<p>需登陆QQ邮箱</p>
 <!-- more -->
+<p>点击首页“欢迎来信交流”，登陆个人QQ邮箱即可给博主发邮件。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[增加“评论文章”功能]]></title>
+        <id>https://qianzhihao.github.io/post/zeng-jia-ping-lun-wen-zhang-gong-neng</id>
+        <link href="https://qianzhihao.github.io/post/zeng-jia-ping-lun-wen-zhang-gong-neng">
+        </link>
+        <updated>2019-06-19T08:13:04.000Z</updated>
+        <summary type="html"><![CDATA[<p>需登陆 github 账号</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>需登陆 github 账号</p>
+<!-- more -->
+<p>点击文章标题，进入文章内容页面。下拉直最底部，登陆个人github账号后，即可对当前文章进行评论。</p>
 ]]></content>
     </entry>
     <entry>
