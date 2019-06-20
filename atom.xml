@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://qianzhihao.github.io</id>
     <title>iqianzhihao</title>
-    <updated>2019-06-20T06:59:19.002Z</updated>
+    <updated>2019-06-20T07:02:59.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://qianzhihao.github.io"/>
     <link rel="self" href="https://qianzhihao.github.io/atom.xml"/>
@@ -12,6 +12,18 @@
     <logo>https://qianzhihao.github.io/images/avatar.png</logo>
     <icon>https://qianzhihao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2019, iqianzhihao</rights>
+    <entry>
+        <title type="html"><![CDATA[增加“给博主发邮件”功能]]></title>
+        <id>https://qianzhihao.github.io/post/zeng-jia-gei-bo-zhu-fa-you-jian-gong-neng</id>
+        <link href="https://qianzhihao.github.io/post/zeng-jia-gei-bo-zhu-fa-you-jian-gong-neng">
+        </link>
+        <updated>2019-06-20T06:59:55.000Z</updated>
+        <summary type="html"><![CDATA[<p>点击首页“欢迎来信交流”，登陆个人QQ邮箱即可给博主发邮件。</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>点击首页“欢迎来信交流”，登陆个人QQ邮箱即可给博主发邮件。</p>
+<!-- more -->
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20190618]]></title>
         <id>https://qianzhihao.github.io/post/20190618</id>
